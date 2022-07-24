@@ -1,2 +1,2 @@
-# wandb-lab
-A playground for me to try out Weights &amp; Biases.
+# hubmap-organ-segmentation
+A Kaggle competition where I try out Weights &amp; Biases.

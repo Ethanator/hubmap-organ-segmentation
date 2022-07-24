@@ -1,0 +1,14 @@
+name: my-project
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.9.*
+  - mamba
+  - pip
+  - poetry=1.*
+  - ipykernel
+
+platforms:
+  - linux-64
+  - osx-64
